@@ -1,0 +1,8 @@
+name = "Yohaan"
+age = 19
+place = "New York"
+country = "united states of america"
+print("My name is", name)
+print("My age is", age)
+print("I live in", place)
+print("I live in", country)
