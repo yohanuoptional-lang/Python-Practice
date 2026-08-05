@@ -3,3 +3,4 @@ place = input("Where do you live: ")
 
 print("Welcome", name)
 print("You live in", place)
+print("i am 20 years old")
